@@ -2,6 +2,7 @@
 "
 syntax enable
 filetype plugin indent on
+set encoding=utf8
 
 set expandtab tabstop=3 shiftwidth=3 smarttab nowrap textwidth=0
 set autoindent smartindent
